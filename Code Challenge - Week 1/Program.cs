@@ -18,20 +18,17 @@ namespace Code_Challenge___Week_1
             // Call FizzBuzz() for each number in the loop
             // End FizzBuzzLoop 92=>79
 
-            //Call Yodaizer Function
-            Yodaizer("I like code");
+            //Call Yodaizer Function with the text "I like code"
 
-            //Call TextStats Function
-            TextStats("Coding is super fun and useful.  This function requires the use of arrays, loops, indexes, and if statements."  + 
-                "There was a lot of thought that went into this code.");
-
+            //Call TextStats Function with the text "Coding is super fun and useful.  This function requires the use of 
+            //arrays, loops, indexes, and if statements. There was a lot of thought that went into this code."            
+            
             //Call IsPrime Function
             // Do IsPrime Loop 1=>25
             // Call IsPrime() for each number in the loop
             // End IsPrime Loop 1=>25
 
-            //Call DashInsert Function
-            DashInsert(8675309);
+            //Call DashInsert Function with the number 8675309
 
             //Console.ReadKey() to keep the console window open until we close it.
             Console.ReadKey();
