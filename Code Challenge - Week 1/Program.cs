@@ -47,22 +47,19 @@ namespace Code_Challenge___Week_1
         }
 
         //Text Stats
-        static void TextStats(string input)
-        {
+        //To Do: Fill in Text Stats Function Declaration
             //To Do: Fill in Text Stats Logic
-        }
+        
 
         //IsPrime
-        static void IsPrime(int number)
-        {
+        //To Do: Fill in IsPrime Function Declaration
             //To Do: Fill in IsPrime Logic
-        }
+        
 
         //DashInsert
-        static void DashInsert(int number)
-        {
+        //To Do: Fill in DashInsert Function Declaration
             //To Do: Fill in DashInsert Logic
-        }
+        
 
     }
 }
