@@ -21,7 +21,7 @@ namespace Code_Challenge___Week_1
             //Call Yodaizer Function with the text "I like code"
 
             //Call TextStats Function with the text "Coding is super fun and useful.  This function requires the use of 
-            //arrays, loops, indexes, and if statements. There was a lot of thought that went into this code."            
+            //lists, loops, indexes, and if statements. There was a lot of thought that went into this code."            
             
             //Call IsPrime Function
             // Do IsPrime Loop 1=>25
